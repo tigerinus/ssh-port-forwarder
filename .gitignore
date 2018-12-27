@@ -79,4 +79,6 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# misc
 package-lock.json
+*.swp
